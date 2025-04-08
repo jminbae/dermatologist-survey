@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dermatologist-survey/static/css/main.e6c13ad2.css",
-    "main.js": "/dermatologist-survey/static/js/main.bd2a3599.js",
+    "main.js": "/dermatologist-survey/static/js/main.e05f7984.js",
     "static/js/453.1e87a41a.chunk.js": "/dermatologist-survey/static/js/453.1e87a41a.chunk.js",
     "index.html": "/dermatologist-survey/index.html",
     "main.e6c13ad2.css.map": "/dermatologist-survey/static/css/main.e6c13ad2.css.map",
-    "main.bd2a3599.js.map": "/dermatologist-survey/static/js/main.bd2a3599.js.map",
+    "main.e05f7984.js.map": "/dermatologist-survey/static/js/main.e05f7984.js.map",
     "453.1e87a41a.chunk.js.map": "/dermatologist-survey/static/js/453.1e87a41a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.bd2a3599.js"
+    "static/js/main.e05f7984.js"
   ]
 }
